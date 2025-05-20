@@ -1,1 +1,18 @@
-thhhkye
+Heart Disease Prediction Model – AI-Powered Health Risk Classifier
+Take a proactive step toward better healthcare with this Heart Disease Prediction Model, designed to analyze medical data and accurately assess the risk of heart disease. Built using robust machine learning algorithms, this model evaluates critical health parameters—like age, cholesterol, blood pressure, chest pain type, and more—to deliver fast, data-driven predictions.
+
+Perfect for healthcare professionals, researchers, and medical app developers, this Jupyter Notebook project includes:
+
+✅ Preprocessed heart disease dataset
+
+✅ Exploratory Data Analysis (EDA) and visual insights
+
+✅ Multiple ML models: Logistic Regression, Decision Tree, Random Forest, SVM
+
+✅ Model comparison and accuracy reports
+
+✅ Fully editable and customizable code
+
+Ideal for: Medical diagnostics, academic research, health-tech solutions, and AI enthusiasts seeking real-world healthcare applications.
+
+Get a head start on predictive diagnostics with this ready-to-use machine learning project—because early detection saves lives.
